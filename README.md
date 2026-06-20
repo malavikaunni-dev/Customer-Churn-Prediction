@@ -92,15 +92,15 @@ Identified key factors influencing customer churn.
 
 ### Churn Distribution
 
-![Churn Distribution](churn_distribution.png)
+<img src="images/churn_distribution.png" width="700">
 
 ### Contract Type vs Churn
 
-![Contract Type](contract_vs_churn.png)
+<img src="images/contract_vs_churn.png" width="700">
 
 ### Feature Importance
 
-![Feature Importance](feature_importance.png)
+<img src="images/feature_importance.png" width="700">
 
 ---
 
